@@ -1,6 +1,8 @@
 # group_notification_app
 
-A new Flutter project.
+My first try in flutter.
+I developed a simple weather app, which is working with free api.
+You can't use my key, cause it's forbidden i think. 
 
 ## Getting Started
 
