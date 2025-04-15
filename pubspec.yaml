@@ -1,0 +1,49 @@
+name: group_notification_app
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.2 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+  flutter_svg: ^2.0.9
+  dio: ^5.3.3
+  translator: ^0.1.7
+  intl: ^0.18.1
+  shared_preferences: ^2.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  
+  flutter_lints: ^2.0.0
+
+
+
+
+flutter:
+
+ 
+  uses-material-design: true
+  assets: 
+   - assets/cat_icons/overcast.png
+   - assets/cat_icons/rainy.png
+   - assets/cat_icons/snowy.png
+   - assets/cat_icons/sunny.png
+   - assets/cat_icons/thunder.png
+   - assets/cat_icons/mist.png
+   - assets/cat_icons/clear.jpg
+   - assets/cat_icons/partly_cloudy.png
+   - assets/cat_icons/light_snow_showers.png
+
+   
+   
